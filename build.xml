@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<project name="Test" default="info">
+<target name="info">
+<echo> Jar will read Package.xml file and conntects Database and create table and columns</echo>
+</target>
+</project>
